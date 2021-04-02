@@ -9,3 +9,4 @@
 #docker ps
 
 # docker exec <container-id> cat /root/.jenkins/secrets/initialAdminPassword
+##
